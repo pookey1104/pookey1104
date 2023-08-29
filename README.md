@@ -8,8 +8,8 @@
 <br>
 
 ## 📒 Introduction
-##### 📌 Email: pookey1104@naver.com / pookey1104@gmail.com
-##### 📌 2023 멋쟁이사자차럼 11기 아기사자 (FE)
+#### 📌 Email: pookey1104@naver.com / pookey1104@gmail.com
+#### 📌 2023 멋쟁이사자차럼 11기 아기사자 (FE)
 <br>
 
 ## 💻 Project
