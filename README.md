@@ -19,7 +19,7 @@
 - 2023 여기톤 : HERETHON⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀ ⠀⠀     ⠀⠀<a href="https://github.com/pookey1104/Herethon-1.git"><img src="https://img.shields.io/badge/ANDO-1C4747?style=badge&logo=github&logoColor=white"></a>
 - 2023 멋쟁이사자처럼 중앙 해커톤⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀ ⠀ ⠀⠀⠀⠀⠀⠀  ⠀<a href="https://github.com/pookey1104/Savior.git"><img src="https://img.shields.io/badge/Savior-412E27?style=badge&logo=github&logoColor=white"></a>
 - 2023 덕성여자대학교 제2회 연합 해커톤 CodeWithDuksung⠀⠀<a href="https://github.com/pookey1104/2023-CodeWithDS-04.git"><img src="https://img.shields.io/badge/졸업을도와조-8F183E?style=badge&logo=github&logoColor=white"></a>
-- 2023 어흥 올림픽⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀⠀ ⠀⠀     ⠀⠀<a href="https://github.com/pookey1104/AHEUNGTHON_Team_5.git"><img src="https://img.shields.io/badge/Teaming-297FFF?style=badge&logo=github&logoColor=white"></a>
+- 2023 어흥올림픽⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀⠀ ⠀⠀     ⠀⠀<a href="https://github.com/pookey1104/AHEUNGTHON_Team_5.git"><img src="https://img.shields.io/badge/Teaming-297FFF?style=badge&logo=github&logoColor=white"></a>
 <br> <br>
 
 ## ⚙️ Skill
