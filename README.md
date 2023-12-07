@@ -21,6 +21,11 @@
 - 2023 덕성여자대학교 제2회 연합 해커톤 CodeWithDuksung⠀⠀<a href="https://github.com/pookey1104/2023-CodeWithDS-04.git"><img src="https://img.shields.io/badge/졸업을도와조-8F183E?style=badge&logo=github&logoColor=white"></a>
 - 2023 어흥올림픽⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀⠀ ⠀⠀     ⠀⠀<a href="https://github.com/pookey1104/AHEUNGTHON_Team_5.git"><img src="https://img.shields.io/badge/Teaming-297FFF?style=badge&logo=github&logoColor=white"></a>
 - 2023 덕성여자대학교 멋쟁이사자처럼 2학기 프로젝트⠀⠀⠀⠀⠀⠀<a href="(https://github.com/pookey1104/ToTree.git"><img src="https://img.shields.io/badge/ToTree-465C38?style=badge&logo=github&logoColor=white"></a>
+<br>
+
+## 🏆 Awards
+- 2023 덕성여자대학교 제2회 연합 해커톤 CodeWithDuksung : ✏️ 학생투표상
+- 2023 어흥올림픽 : 🏆 대상 (스파르탄교육원장상)
 <br> <br>
 
 ## ⚙️ Skill
