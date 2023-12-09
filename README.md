@@ -10,7 +10,10 @@
 
 ## 📒 Introduction
 #### 📌 Email : pookey1104@naver.com / pookey1104@gmail.com
-⠀
+#### 📌 Portfolio : <a href="https://may05.notion.site/Portfolio-75823044eb224815aa777d6dd8805290?pvs=4">Notion Link</a>
+<br>
+
+## 💭 Club
 ##### Frontend
 #### 📌 2023 멋쟁이사자차럼 11기 아기사자 (FE)
 #### 📌 2024 멋쟁이사자차럼 12기 운영진 (FE)
