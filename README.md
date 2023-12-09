@@ -10,9 +10,13 @@
 
 ## 📒 Introduction
 #### 📌 Email : pookey1104@naver.com / pookey1104@gmail.com
+⠀
+##### Frontend
 #### 📌 2023 멋쟁이사자차럼 11기 아기사자 (FE)
-#### 📌 2023-2 UMC 5기 Node.js (BE)
 #### 📌 2024 멋쟁이사자차럼 12기 운영진 (FE)
+⠀
+##### Backend
+#### 📌 2023-2 UMC 5기 Node.js (BE)
 <br>
 
 ## 💻 Project
