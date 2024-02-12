@@ -17,17 +17,22 @@
 ##### Frontend
 #### 📌 2023 멋쟁이사자차럼 11기 아기사자 (FE)
 #### 📌 2024 멋쟁이사자차럼 12기 운영진 (FE)
+#### 📌 2024-1 구름톤 유니브 2기 미르미 (FE)
 ⠀
 ##### Backend
 #### 📌 2023-2 UMC 5기 Node.js (BE)
 <br>
 
 ## 💻 Project
+##### Frontend
 - 2023 여기톤 : HERETHON⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀ ⠀⠀     ⠀⠀<a href="https://github.com/pookey1104/Herethon-1.git"><img src="https://img.shields.io/badge/ANDO-1C4747?style=badge&logo=github&logoColor=white"></a>
 - 2023 멋쟁이사자처럼 중앙 해커톤⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀ ⠀ ⠀⠀⠀⠀⠀⠀  ⠀<a href="https://github.com/pookey1104/Savior.git"><img src="https://img.shields.io/badge/Savior-412E27?style=badge&logo=github&logoColor=white"></a>
 - 2023 덕성여자대학교 제2회 연합 해커톤 CodeWithDuksung⠀⠀<a href="https://github.com/pookey1104/2023-CodeWithDS-04.git"><img src="https://img.shields.io/badge/졸업을도와조-8F183E?style=badge&logo=github&logoColor=white"></a>
 - 2023 어흥올림픽⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀⠀ ⠀⠀     ⠀⠀<a href="https://github.com/pookey1104/AHEUNGTHON_Team_5.git"><img src="https://img.shields.io/badge/Teaming-297FFF?style=badge&logo=github&logoColor=white"></a>
 - 2023 덕성여자대학교 멋쟁이사자처럼 2학기 프로젝트⠀⠀⠀⠀⠀⠀<a href="https://github.com/pookey1104/ToTree.git"><img src="https://img.shields.io/badge/ToTree-465C38?style=badge&logo=github&logoColor=white"></a>
+- 2024 트렌디톤 : TRENDITHON⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀ ⠀⠀⠀ ⠀⠀<a href="https://github.com/pookey1104/Coy-Frontend.git"><img src="https://img.shields.io/badge/Coy-439AFF?style=badge&logo=github&logoColor=white"></a>
+
+##### Backend
 - 2023 UMC 5기 사이드 프로젝트⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀ ⠀⠀    ⠀<a href="https://github.com/PROUST-TEAM/back-end-2"><img src="https://img.shields.io/badge/PROUST-000000?style=badge&logo=github&logoColor=white"></a>
 <br>
 
