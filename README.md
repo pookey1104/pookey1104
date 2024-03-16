@@ -36,6 +36,7 @@
 - 2023 어흥올림픽⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀⠀ ⠀⠀     ⠀⠀<a href="https://github.com/pookey1104/AHEUNGTHON_Team_5.git"><img src="https://img.shields.io/badge/Teaming-297FFF?style=badge&logo=github&logoColor=white"></a>
 - 2023 덕성여자대학교 멋쟁이사자처럼 2학기 프로젝트⠀⠀⠀⠀⠀⠀<a href="https://github.com/pookey1104/ToTree.git"><img src="https://img.shields.io/badge/ToTree-465C38?style=badge&logo=github&logoColor=white"></a>
 - 2024 트렌디톤 : TRENDITHON⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀ ⠀⠀⠀ ⠀⠀<a href="https://github.com/pookey1104/Coy-Frontend.git"><img src="https://img.shields.io/badge/Coy-439AFF?style=badge&logo=github&logoColor=white"></a>
+- 2024 덕성여자대학교 멋쟁이사자처럼 12기 합격자 조회⠀⠀ ⠀⠀ <a href="https://github.com/pookey1104/2024-BABYLION-Frontend.git"><img src="https://img.shields.io/badge/LikelionDS-FF7710?style=badge&logo=github&logoColor=white"></a>
 
 ##### Backend
 - 2023 UMC 5기 사이드 프로젝트⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀ ⠀⠀    ⠀<a href="https://github.com/PROUST-TEAM/back-end-2"><img src="https://img.shields.io/badge/PROUST-000000?style=badge&logo=github&logoColor=white"></a>
