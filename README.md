@@ -14,34 +14,32 @@
 <br>
 
 ## 💭 Club
-##### Frontend - Web
-#### 📌 2023 멋쟁이사자차럼 11기 아기사자 (FE)
-#### 📌 2024 멋쟁이사자차럼 12기 운영진 (FE)
-#### 📌 2024-1 구름톤 유니브 2기 미르미 (FE)
-#### 📌 2024 코드잇 부스트 1기 Power Boost 러너 (FE)
-##### Frontend - App
-#### 📌 2024-1 UMC 6기 iOS (FE)
-⠀
-##### Backend
-#### 📌 2023-2 UMC 5기 Node.js (BE)
-⠀
-##### Plan
-#### 📌 2024 멋쟁이사자차럼 대학 홈페이지 TF 2기 기획팀원 (PLAN)
+#### 📌 Frontend - Web
+##### - 2023 멋쟁이사자차럼 11기 아기사자 (FE)
+##### - 2024 멋쟁이사자차럼 12기 운영진 (FE)
+##### - 2024-1 구름톤 유니브 2기 미르미 (FE)
+##### - 2024 코드잇 부스트 1기 Power Boost 러너 (FE)
+#### 📌 Frontend - App
+##### - 2024-1 UMC 6기 iOS (FE)
+#### 📌 Backend
+##### - 2023-2 UMC 5기 Node.js (BE)
+#### 📌 Plan
+##### - 2024 멋쟁이사자차럼 대학 홈페이지 TF 2기 기획팀원 (PLAN)
 <br>
 
 ## 💻 Project
 ##### Frontend
-- 2023 여기톤 : HERETHON⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀ ⠀⠀     ⠀⠀<a href="https://github.com/pookey1104/Herethon-1.git"><img src="https://img.shields.io/badge/ANDO-1C4747?style=badge&logo=github&logoColor=white"></a>
-- 2023 멋쟁이사자처럼 중앙 해커톤⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀ ⠀ ⠀⠀⠀⠀⠀⠀  ⠀<a href="https://github.com/pookey1104/Savior.git"><img src="https://img.shields.io/badge/Savior-412E27?style=badge&logo=github&logoColor=white"></a>
-- 2023 덕성여자대학교 제2회 연합 해커톤 CodeWithDuksung⠀⠀<a href="https://github.com/pookey1104/2023-CodeWithDS-04.git"><img src="https://img.shields.io/badge/졸업을도와조-8F183E?style=badge&logo=github&logoColor=white"></a>
-- 2023 어흥올림픽⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀⠀ ⠀⠀     ⠀⠀<a href="https://github.com/pookey1104/AHEUNGTHON_Team_5.git"><img src="https://img.shields.io/badge/Teaming-297FFF?style=badge&logo=github&logoColor=white"></a>
-- 2023 덕성여자대학교 멋쟁이사자처럼 2학기 프로젝트⠀⠀⠀⠀⠀⠀<a href="https://github.com/pookey1104/ToTree.git"><img src="https://img.shields.io/badge/ToTree-465C38?style=badge&logo=github&logoColor=white"></a>
-- 2024 트렌디톤 : TRENDITHON⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀ ⠀⠀⠀ ⠀⠀<a href="https://github.com/pookey1104/Coy-Frontend.git"><img src="https://img.shields.io/badge/Coy-439AFF?style=badge&logo=github&logoColor=white"></a>
-- 2024 덕성여자대학교 멋쟁이사자처럼 12기 합격자 조회⠀⠀ ⠀⠀ <a href="https://github.com/pookey1104/2024-BABYLION-Frontend.git"><img src="https://img.shields.io/badge/LikelionDS-FF7710?style=badge&logo=github&logoColor=white"></a>
-- 2024 벚꽃톤 : BEOTKKOTTHON⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀<a href="https://github.com/goormthon-Univ/2024_BEOTKKOTTHON_TEAM_17_FE.git"><img src="https://img.shields.io/badge/PONNECT-138EFF?style=badge&logo=github&logoColor=white"></a>
+- <a href="https://github.com/pookey1104/Herethon-1.git">2023 여기톤 : HERETHON</a>
+- <a href="https://github.com/pookey1104/Savior.git">2023 멋쟁이사자처럼 중앙 해커톤</a>
+- <a href="https://github.com/pookey1104/2023-CodeWithDS-04.git">2023 덕성여자대학교 제2회 연합 해커톤 CodeWithDuksung</a>
+- <a href="https://github.com/pookey1104/AHEUNGTHON_Team_5.git">2023 어흥올림픽</a>
+- <a href="https://github.com/pookey1104/ToTree.git">2023 덕성여자대학교 멋쟁이사자처럼 2학기 프로젝트</a>
+- <a href="https://github.com/pookey1104/Coy-Frontend.git">2024 트렌디톤 : TRENDITHON</a>
+- <a href="https://github.com/pookey1104/2024-BABYLION-Frontend.git">2024 덕성여자대학교 멋쟁이사자처럼 12기 합격자 조회</a>
+- <a href="https://github.com/goormthon-Univ/2024_BEOTKKOTTHON_TEAM_17_FE.git">2024 벚꽃톤 : BEOTKKOTTHON</a>
 
 ##### Backend
-- 2023 UMC 5기 사이드 프로젝트⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀ ⠀⠀    ⠀<a href="https://github.com/PROUST-TEAM/back-end-2"><img src="https://img.shields.io/badge/PROUST-000000?style=badge&logo=github&logoColor=white"></a>
+- <a href="https://github.com/PROUST-TEAM/back-end-2">2023 UMC 5기 사이드 프로젝트</a>
 <br>
 
 ## 🏆 Awards
@@ -68,11 +66,11 @@
 <br>
 
 #### ✔️ Hosting
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 <br>
 
 #### ✔️ Etc
-<a href="https://may05.notion.site/cf88ac368346447296871d27653d2745?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a> <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://may05.notion.site/cf88ac368346447296871d27653d2745?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a> <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 <br>
 
 <br>
