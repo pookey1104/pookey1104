@@ -36,7 +36,7 @@
 - <a href="https://github.com/pookey1104/ToTree.git">2023 덕성여자대학교 멋쟁이사자처럼 2학기 프로젝트</a>
 - <a href="https://github.com/pookey1104/Coy-Frontend.git">2024 트렌디톤 : TRENDITHON</a>
 - <a href="https://github.com/pookey1104/2024-BABYLION-Frontend.git">2024 덕성여자대학교 멋쟁이사자처럼 12기 합격자 조회</a>
-- <a href="https://github.com/goormthon-Univ/2024_BEOTKKOTTHON_TEAM_17_FE.git">2024 벚꽃톤 : BEOTKKOTTHON</a>
+- <a href="https://github.com/9oormthon-univ/2024_BEOTKKOTTHON_TEAM_17_FE.git">2024 벚꽃톤 : BEOTKKOTTHON</a>
 
 ##### Backend
 - <a href="https://github.com/PROUST-TEAM/back-end-2">2023 UMC 5기 사이드 프로젝트</a>
