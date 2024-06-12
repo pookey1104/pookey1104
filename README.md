@@ -29,18 +29,18 @@
 
 ## 💻 Project
 ##### Frontend
-- <a href="https://github.com/pookey1104/Herethon-1.git">2023 여기톤 : HERETHON</a>
-- <a href="https://github.com/pookey1104/Savior.git">2023 멋쟁이사자처럼 중앙 해커톤</a>
-- <a href="https://github.com/pookey1104/2023-CodeWithDS-04.git">2023 덕성여자대학교 제2회 연합 해커톤 CodeWithDuksung</a>
-- <a href="https://github.com/pookey1104/AHEUNGTHON_Team_5.git">2023 어흥올림픽</a>
-- <a href="https://github.com/pookey1104/ToTree.git">2023 덕성여자대학교 멋쟁이사자처럼 2학기 프로젝트</a>
-- <a href="https://github.com/pookey1104/Coy-Frontend.git">2024 트렌디톤 : TRENDITHON</a>
-- <a href="https://github.com/pookey1104/2024-BABYLION-Frontend.git">2024 덕성여자대학교 멋쟁이사자처럼 12기 합격자 조회</a>
-- <a href="https://github.com/9oormthon-univ/2024_BEOTKKOTTHON_TEAM_17_FE.git">2024 벚꽃톤 : BEOTKKOTTHON</a>
-- <a href="https://github.com/pookey1104/DSFest_FE.git">2024 덕성여자대학교 근화제 "찬란"</a>
+- <a href="https://github.com/pookey1104/Herethon-1.git">2023 여기톤 : HERETHON</a> | **Ando**
+- <a href="https://github.com/pookey1104/Savior.git">2023 멋쟁이사자처럼 중앙 해커톤</a> | **Savior**
+- <a href="https://github.com/pookey1104/2023-CodeWithDS-04.git">2023 덕성여자대학교 제2회 연합 해커톤 CodeWithDuksung</a> | **졸업을 도와조**
+- <a href="https://github.com/pookey1104/AHEUNGTHON_Team_5.git">2023 어흥올림픽</a> | **Teaming**
+- <a href="https://github.com/pookey1104/ToTree.git">2023 덕성여자대학교 멋쟁이사자처럼 2학기 프로젝트</a> | **ToTree**
+- <a href="https://github.com/pookey1104/Coy-Frontend.git">2024 트렌디톤 : TRENDITHON</a> | **Coy**
+- <a href="https://github.com/pookey1104/2024-BABYLION-Frontend.git">2024 덕성여자대학교 멋쟁이사자처럼 12기 합격자 조회</a> | **LikeLionDS**
+- <a href="https://github.com/9oormthon-univ/2024_BEOTKKOTTHON_TEAM_17_FE.git">2024 벚꽃톤 : BEOTKKOTTHON</a> | **Ponnect**
+- <a href="https://github.com/pookey1104/DSFest_FE.git">2024 덕성여자대학교 근화제 "찬란"</a> | **찬란**
 
 ##### Backend
-- <a href="https://github.com/PROUST-TEAM/back-end-2">2023 UMC 5기 사이드 프로젝트</a>
+- <a href="https://github.com/PROUST-TEAM/back-end-2">2023 UMC 5기 사이드 프로젝트</a> | **Proust**
 <br>
 
 ## 🏆 Awards
@@ -62,8 +62,7 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 
 #### ✔️ Tool
-<img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/visual studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"> <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"> ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"> <img src="https://img.shields.io/badge/android studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"> ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) <br>
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/visual studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"> <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"> ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"> <img src="https://img.shields.io/badge/android studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"> ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <br>
 
 #### ✔️ Hosting
