@@ -15,7 +15,7 @@
 #### 📌 Backend
 - 2023-2 UMC 5기 Node.js (BE)
 #### 📌 Plan
-- 2024 멋쟁이사자차럼 대학 홈페이지 TF 2기 기획팀원 (PLAN)
+- 2024 멋쟁이사자차럼 대학 홈페이지 TF 2기 기획팀원 (PM)
 <br>
 
 ## 💻 Project
@@ -62,7 +62,7 @@
 <br>
 
 #### ✔️ Etc
-<a href="https://may05.notion.site/cf88ac368346447296871d27653d2745?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a> <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 <br>
 
 <br>
