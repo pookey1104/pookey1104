@@ -14,6 +14,7 @@
 - 2024-1 UMC 6기 iOS (FE)
 #### 📌 Backend
 - 2023-2 UMC 5기 Node.js (BE)
+- 2024-2 UMC 7기 SpringBoot, 회장 (BE)
 #### 📌 Plan
 - 2024 멋쟁이사자차럼 대학 홈페이지 TF 2기 기획팀원 (PM)
 <br>
