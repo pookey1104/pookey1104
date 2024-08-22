@@ -32,6 +32,7 @@
 - <a href="https://github.com/pookey1104/DSFest_FE.git">2024 덕성여자대학교 근화제 "찬란"</a> | **찬란**
 - <a href="https://github.com/pookey1104/2024-Herethon-5">2024 여기톤 : HERETHON</a> | **PopPlace**
 - <a href="https://github.com/pookey1104/DailyOriental-FE.git">2024 멋쟁이사자처럼 중앙 해커톤</a> | **매일한방**
+- <a href="https://github.com/pookey1104/FocusUp-FE.git">2024 UMC 6기 사이드 프로젝트</a> | **FocusUp [iOS]**
 
 ##### Backend
 - <a href="https://github.com/pookey1104/Proust_BE.git">2023 UMC 5기 사이드 프로젝트</a> | **Proust**
