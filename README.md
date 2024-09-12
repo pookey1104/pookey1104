@@ -21,21 +21,21 @@
 
 ## 💻 Project
 ##### Frontend
-- <a href="https://github.com/pookey1104/Herethon-1.git">2023 여기톤 : HERETHON</a> | **Ando**
-- <a href="https://github.com/pookey1104/Savior.git">2023 멋쟁이사자처럼 중앙 해커톤</a> | **Savior**
-- <a href="https://github.com/pookey1104/2023-CodeWithDS-04.git">2023 덕성여자대학교 제2회 연합 해커톤 CodeWithDuksung</a> | **졸업을 도와조**
-- <a href="https://github.com/pookey1104/AHEUNGTHON_Team_5.git">2023 어흥올림픽</a> | **Teaming**
-- <a href="https://github.com/pookey1104/ToTree.git">2023 덕성여자대학교 멋쟁이사자처럼 2학기 프로젝트</a> | **ToTree**
-- <a href="https://github.com/pookey1104/Coy-Frontend.git">2024 트렌디톤 : TRENDITHON</a> | **Coy**
-- <a href="https://github.com/pookey1104/2024-BABYLION-Frontend.git">2024 덕성여자대학교 멋쟁이사자처럼 12기 합격자 조회</a> | **LikeLionDS**
-- <a href="https://github.com/pookey1104/2024_BEOTKKOTTHON_TEAM_17_FE.git">2024 벚꽃톤 : BEOTKKOTTHON</a> | **Ponnect**
-- <a href="https://github.com/pookey1104/DSFest_FE.git">2024 덕성여자대학교 근화제 "찬란"</a> | **찬란**
-- <a href="https://github.com/pookey1104/2024-Herethon-5">2024 여기톤 : HERETHON</a> | **PopPlace**
-- <a href="https://github.com/pookey1104/DailyOriental-FE.git">2024 멋쟁이사자처럼 중앙 해커톤</a> | **매일한방**
+- <a href="https://github.com/pookey1104/Herethon-1.git">2023 여기톤 : HERETHON</a> | **Ando [HTML+CSS+Vanilla JS]**
+- <a href="https://github.com/pookey1104/Savior.git">2023 멋쟁이사자처럼 중앙 해커톤</a> | **Savior [HTML+CSS+Vanilla JS]**
+- <a href="https://github.com/pookey1104/2023-CodeWithDS-04.git">2023 덕성여자대학교 제2회 연합 해커톤 CodeWithDuksung</a> | **졸업을 도와조 [HTML+CSS+Vanilla JS]**
+- <a href="https://github.com/pookey1104/AHEUNGTHON_Team_5.git">2023 어흥올림픽</a> | **Teaming [React]**
+- <a href="https://github.com/pookey1104/ToTree.git">2023 덕성여자대학교 멋쟁이사자처럼 2학기 프로젝트</a> | **ToTree [React]**
+- <a href="https://github.com/pookey1104/Coy-Frontend.git">2024 트렌디톤 : TRENDITHON</a> | **Coy [React]**
+- <a href="https://github.com/pookey1104/2024-BABYLION-Frontend.git">2024 덕성여자대학교 멋쟁이사자처럼 12기 합격자 조회</a> | **LikeLionDS [React]**
+- <a href="https://github.com/pookey1104/2024_BEOTKKOTTHON_TEAM_17_FE.git">2024 벚꽃톤 : BEOTKKOTTHON</a> | **Ponnect [React]**
+- <a href="https://github.com/pookey1104/DSFest_FE.git">2024 덕성여자대학교 근화제 "찬란"</a> | **찬란 [React]**
+- <a href="https://github.com/pookey1104/2024-Herethon-5">2024 여기톤 : HERETHON</a> | **PopPlace [HTML+CSS+Vanilla JS]**
+- <a href="https://github.com/pookey1104/DailyOriental-FE.git">2024 멋쟁이사자처럼 중앙 해커톤</a> | **매일한방 [React]**
 - <a href="https://github.com/pookey1104/FocusUp-FE.git">2024 UMC 6기 사이드 프로젝트</a> | **FocusUp [iOS]**
 
 ##### Backend
-- <a href="https://github.com/pookey1104/Proust_BE.git">2023 UMC 5기 사이드 프로젝트</a> | **Proust**
+- <a href="https://github.com/pookey1104/Proust_BE.git">2023 UMC 5기 사이드 프로젝트</a> | **Proust [Node.js]**
 <br>
 
 ## 🏆 Awards
