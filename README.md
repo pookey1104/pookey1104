@@ -12,9 +12,9 @@
 - 2024 코드잇 부스트 1기 Power Boost 러너 (FE)
 #### 📌 Frontend - App
 - 2024-1 UMC 6기 iOS (FE)
+- 2024-2 UMC 7기 iOS 파트장, 회장 (BFE)
 #### 📌 Backend
 - 2023-2 UMC 5기 Node.js (BE)
-- 2024-2 UMC 7기 SpringBoot, 회장 (BE)
 #### 📌 Plan
 - 2024 멋쟁이사자차럼 대학 홈페이지 TF 2기 기획팀원 (PM)
 <br>
