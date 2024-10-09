@@ -5,38 +5,40 @@ body:
   - type: markdown
     attributes:
       value: |
-        ## 🐻 회원가입 폼 (React)
-
-        ### ✅ 요구사항
+        작성 예시 : "[ 이름 ] 2차 과제 제출"
+  - type: input
+    id: feat-title
+    attributes:
+      label : 🐻 회원가입 폼 (React)
+      description: 해당 과제를 수행하는 미르미의 이름을 작성해주세요.
+      placeholder: 이름을 작성해주세요.
+    validations:
+      required: true
+  - type: textarea
+    id: feat-todo
+    attributes:
+      label : ✅ 요구사항
+      description: 완성 후 요구사항을 체크해주세요.
+      value: |
         - [ ] autofocus
         - [ ] 유효성 검사 로직
         - [ ] 커스텀 에러 메세지
         - [ ] 입력 확인 모달 창
         - [ ] 폰트 사이즈 조절 버튼
-
-  - type: markdown
-    attributes:
-      value: |
-        ### 🔍 접근 방법
-
+    validations:
+      required: false
   - type: textarea
     id: reproduction
     attributes:
-      label: ""
+      label: 🔍 접근 방법
       description: 고려하신 방법이나, 접근에 대해서 설명해주세요.
       placeholder: 설명을 작성해주세요.
     validations:
-      required: true
-
-  - type: markdown
-    attributes:
-      value: |
-        ### 📸 스크린샷
-
+      required: false
   - type: textarea
     id: feat-image
     attributes:
-      label: ""
+      label: 📸 스크린샷
       description: 완성 후 구현한 화면에 대한 스크린샷을 첨부해주세요.
       placeholder: 스크린샷을 첨부해주세요.
     validations:
