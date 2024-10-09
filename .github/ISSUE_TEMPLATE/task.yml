@@ -14,19 +14,29 @@ body:
         - [ ] 입력 확인 모달 창
         - [ ] 폰트 사이즈 조절 버튼
 
+  - type: markdown
+    attributes:
+      value: |
+        ### 🔍 접근 방법
+
   - type: textarea
     id: reproduction
     attributes:
-      label: 🔍 접근 방법
+      label: ""
       description: 고려하신 방법이나, 접근에 대해서 설명해주세요.
-      placeholder: 추후 작성할 예정입니다.
+      placeholder: 설명을 작성해주세요.
     validations:
       required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ### 📸 스크린샷
 
   - type: textarea
     id: feat-image
     attributes:
-      label: 📸 스크린샷
+      label: ""
       description: 완성 후 구현한 화면에 대한 스크린샷을 첨부해주세요.
       placeholder: 스크린샷을 첨부해주세요.
     validations:
