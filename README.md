@@ -6,7 +6,7 @@
   
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpookey1104%2Fhit-counter&count_bg=%23E38193&title_bg=%23695A5A&icon=furrynetwork.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
 
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pookey1104&theme=date-night&background=FFFFFF&stroke=695A5AA1&fire=E38193&ring=E38193&currStreakNum=695A5A&sideNums=695A5A&currStreakLabel=E38193&sideLabels=E38193&dates=695A5A" alt="GitHub Streak" width=50% /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pookey1104&theme=date-night&background=FFFFFF&stroke=695A5AA1&fire=E38193&ring=E38193&currStreakNum=695A5A&sideNums=695A5A&currStreakLabel=E38193&sideLabels=E38193&dates=695A5A" alt="GitHub Streak" width=500 /></a>
 
 </div>
 
@@ -47,7 +47,7 @@
 <br>
 
 ## ⚙️ Skill
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pookey1104&exclude_repo=20210844_20210862&layout=donut&title_color=695A5A&text_color=695A5A&icon_color=E38193&bg_color=ffffff&hide_border=false" alt="Top Langs"  width=35% />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pookey1104&exclude_repo=20210844_20210862&layout=donut&title_color=695A5A&text_color=695A5A&icon_color=E38193&bg_color=ffffff&hide_border=false" alt="Top Langs"  width=350 />
 
 <div>
   
