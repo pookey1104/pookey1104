@@ -41,6 +41,7 @@
 - <a href="https://github.com/pookey1104/DailyOriental-FE.git">2024 멋쟁이사자처럼 중앙 해커톤</a> | **매일한방** [React]
 - <a href="https://github.com/pookey1104/FocusUp-FE.git">2024 UMC 6기 사이드 프로젝트</a> | **FocusUp** [iOS]
 - <a href="https://github.com/codeit-boost-ds-toy-2/Zogakzip_FE.git">2024 코드잇 부스트 1기 토이 프로젝트</a> | **Zogakzip** [React]
+- <a href="https://github.com/Growus/Econnect_yarn.git">2024 ICT 한이음 공모전</a> | **Econnect** [ReactNative]
 
 ##### Backend
 - <a href="https://github.com/pookey1104/Proust_BE.git">2023 UMC 5기 사이드 프로젝트</a> | **Proust** [Node.js]
