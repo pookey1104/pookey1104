@@ -38,13 +38,14 @@
 #### 2024
 - <a href="https://github.com/pookey1104/Coy-Frontend.git">2024 트렌디톤 : TRENDITHON</a> | **Coy** [React] | **🏆 최우수상**
 - <a href="https://github.com/pookey1104/2024-BABYLION-Frontend.git">2024 덕성여자대학교 멋쟁이사자처럼 12기 합격자 조회</a> | **LikeLionDS** [React]
-- <a href="https://github.com/pookey1104/2024_BEOTKKOTTHON_TEAM_17_FE.git">2024 벚꽃톤 : BEOTKKOTTHON</a> | **Ponnect** [React]
+- <a href="https://github.com/pookey1104/2024_BEOTKKOTTHON_TEAM_17_FE.git">2024 kakao x goorm 벚꽃톤 : BEOTKKOTTHON</a> | **Ponnect** [React]
 - <a href="https://github.com/pookey1104/DSFest_FE.git">2024 덕성여자대학교 근화제 "찬란"</a> | **찬란** [React]
 - <a href="https://github.com/pookey1104/2024-Herethon-5">2024 여기톤 : HERETHON</a> | **PopPlace** [HTML+CSS+Vanilla JS]
 - <a href="https://github.com/pookey1104/DailyOriental-FE.git">2024 멋쟁이사자처럼 중앙 해커톤</a> | **매일한방** [React]
 - <a href="https://github.com/pookey1104/FocusUp-FE.git">2024 UMC 6기 사이드 프로젝트</a> | **FocusUp** [iOS]
 - <a href="https://github.com/codeit-boost-ds-toy-2/Zogakzip_FE.git">2024 코드잇 부스트 1기 토이 프로젝트</a> | **Zogakzip** [React]
 - <a href="https://github.com/Growus/Econnect_yarn.git">2024 ICT 한이음 공모전</a> | **Econnect** [ReactNative]
+- <a href="https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_15_FE">2024 kakao x goorm 단풍톤 : DANPUNGTHON</a> | **아이보리** [React] | **✨ 상위 16팀 본선 진출**
 <br>
 
 ## ⚙️ Skill
