@@ -36,7 +36,6 @@
 
 - <a href="https://github.com/pookey1104/Herethon-1.git">2023 여기톤 : HERETHON</a> | **Ando** [HTML+CSS+Vanilla JS]
 - <a href="https://github.com/pookey1104/Savior.git">2023 멋쟁이사자처럼 중앙 해커톤</a> | **Savior** [HTML+CSS+Vanilla JS]
-- <a href="https://github.com/pookey1104/2023-CodeWithDS-04.git">2023 덕성여자대학교 제2회 연합 해커톤 CodeWithDuksung</a> | **졸업을 도와조** [HTML+CSS+Vanilla JS] | **✏️ 학생투표상**
 - <a href="https://github.com/pookey1104/AHEUNGTHON_Team_5.git">2023 어흥올림픽</a> | **Teaming** [React] | **🏆 대상 (스파르탄교육원장상)**
 - <a href="https://github.com/pookey1104/ToTree.git">2023 덕성여자대학교 멋쟁이사자처럼 2학기 프로젝트</a> | **ToTree** [React]
 - <a href="https://github.com/pookey1104/Proust_BE.git">2023 UMC 5기 사이드 프로젝트</a> | **Proust** [Node.js]
