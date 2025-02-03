@@ -29,6 +29,7 @@
 - ⚡️ 코드잇 부스트 1기 Power Boost 러너 | **FE**
 - 🏠 경기푸른미래관 TF | **FE**
 - 📢 청소년 SW동행 프로젝트 멘토
+- 🫧 [kakao x goorm] DeepDive 풀스택 11회차
 
 #### 2025
 - 🦁 멋쟁이사자차럼 13기 부대표(교육팀) | **FE**
@@ -39,25 +40,29 @@
 
 #### 2023
 
-- <a href="https://github.com/pookey1104/Herethon-1.git">2023 여기톤 : HERETHON</a> | **Ando** [HTML+CSS+Vanilla JS]
-- <a href="https://github.com/pookey1104/Savior.git">2023 멋쟁이사자처럼 중앙 해커톤</a> | **Savior** [HTML+CSS+Vanilla JS]
-- <a href="https://github.com/pookey1104/AHEUNGTHON_Team_5.git">2023 어흥올림픽</a> | **Teaming** [React] | **🏆 대상 (스파르탄교육원장상)**
-- <a href="https://github.com/pookey1104/ToTree.git">2023 덕성여자대학교 멋쟁이사자처럼 2학기 프로젝트</a> | **ToTree** [React]
-- <a href="https://github.com/pookey1104/Proust_BE.git">2023 UMC 5기 사이드 프로젝트</a> | **Proust** [Node.js]
+  - <a href="https://github.com/pookey1104/Herethon-1.git">2023 여기톤 : HERETHON</a> | **Ando** [HTML+CSS+Vanilla JS]
+  - <a href="https://github.com/pookey1104/Savior.git">2023 멋쟁이사자처럼 중앙 해커톤</a> | **Savior** [HTML+CSS+Vanilla JS]
+  - <a href="https://github.com/pookey1104/AHEUNGTHON_Team_5.git">2023 어흥올림픽</a> | **Teaming** [React] | **🏆 대상 (스파르탄교육원장상)**
+  - <a href="https://github.com/pookey1104/ToTree.git">2023 덕성여자대학교 멋쟁이사자처럼 2학기 프로젝트</a> | **ToTree** [React]
+  - <a href="https://github.com/pookey1104/Proust_BE.git">2023 UMC 5기 사이드 프로젝트</a> | **Proust** [Node.js]
 
 #### 2024
 
-- <a href="https://github.com/pookey1104/Coy-Frontend.git">2024 트렌디톤 : TRENDITHON</a> | **Coy** [React] | **🏆 최우수상**
-- <a href="https://github.com/pookey1104/2024-BABYLION-Frontend.git">2024 덕성여자대학교 멋쟁이사자처럼 12기 합격자 조회</a> | **LikeLionDS** [React]
-- <a href="https://github.com/pookey1104/2024_BEOTKKOTTHON_TEAM_17_FE.git">2024 kakao x goorm 벚꽃톤 : BEOTKKOTTHON</a> | **Ponnect** [React]
-- <a href="https://github.com/pookey1104/DSFest_FE.git">2024 덕성여자대학교 근화제 "찬란"</a> | **찬란** [React]
-- <a href="https://github.com/pookey1104/2024-Herethon-5">2024 여기톤 : HERETHON</a> | **PopPlace** [HTML+CSS+Vanilla JS]
-- <a href="https://github.com/pookey1104/DailyOriental-FE.git">2024 멋쟁이사자처럼 중앙 해커톤</a> | **매일한방** [React]
-- <a href="https://github.com/pookey1104/FocusUp-FE.git">2024 UMC 6기 사이드 프로젝트</a> | **FocusUp** [iOS]
-- <a href="https://github.com/codeit-boost-ds-toy-2/Zogakzip_FE.git">2024 코드잇 부스트 1기 토이 프로젝트</a> | **Zogakzip** [React]
-- <a href="https://github.com/Growus/Econnect_yarn.git">2024 ICT 한이음 공모전</a> | **Econnect** [ReactNative]
-- <a href="https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_15_FE">2024 kakao x goorm 단풍톤 : DANPUNGTHON</a> | **아이보리** [React] | **🏆 최우수상 (구름 대표상)**
-  <br>
+  - <a href="https://github.com/pookey1104/Coy-Frontend.git">2024 트렌디톤 : TRENDITHON</a> | **Coy** [React] | **🏆 최우수상**
+  - <a href="https://github.com/pookey1104/2024-BABYLION-Frontend.git">2024 덕성여자대학교 멋쟁이사자처럼 12기 합격자 조회</a> | **LikeLionDS** [React]
+  - <a href="https://github.com/pookey1104/2024_BEOTKKOTTHON_TEAM_17_FE.git">2024 kakao x goorm 벚꽃톤 : BEOTKKOTTHON</a> | **Ponnect** [React]
+  - <a href="https://github.com/pookey1104/DSFest_FE.git">2024 덕성여자대학교 근화제 "찬란"</a> | **찬란** [React]
+  - <a href="https://github.com/pookey1104/2024-Herethon-5">2024 여기톤 : HERETHON</a> | **PopPlace** [HTML+CSS+Vanilla JS]
+  - <a href="https://github.com/pookey1104/DailyOriental-FE.git">2024 멋쟁이사자처럼 중앙 해커톤</a> | **매일한방** [React]
+  - <a href="https://github.com/pookey1104/FocusUp-FE.git">2024 UMC 6기 사이드 프로젝트</a> | **FocusUp** [iOS]
+  - <a href="https://github.com/codeit-boost-ds-toy-2/Zogakzip_FE.git">2024 코드잇 부스트 1기 토이 프로젝트</a> | **Zogakzip** [React]
+  - <a href="https://github.com/Growus/Econnect_yarn.git">2024 ICT 한이음 공모전</a> | **Econnect** [ReactNative]
+  - <a href="https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_15_FE">2024 [kakao x goorm] 단풍톤 : DANPUNGTHON</a> | **아이보리** [React] | **🏆 최우수상 (구름 대표상)**
+
+#### 2025
+
+ - <a href="https://github.com/code-wave-project/code-wave-FE.git">[kakao x goorm] DeepDive 풀스택 11회차 Web IDE 프로젝트</a> | **CodeWave** [React] | **🏆 1등**
+<br>
 
 ## ⚙️ Skill
 
@@ -70,7 +75,7 @@
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/ReactNative-20232A?style=flat-square&logo=react&logoColor=61DAFB"> ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white)
 <br>
-<img src="https://img.shields.io/badge/Npm-CB3837?style=flat-square&logo=Npm&logoColor=white"> <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white"> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"> <img src="https://img.shields.io/badge/PWA-5A0FC8.svg?style=flat-square&logo=PWA&logoColor=white"> <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white" alt="styledcomponents" /> <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white"> <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"> <img src="https://img.shields.io/badge/Zustand-eb9534?style=flat-square"/>
+<img src="https://img.shields.io/badge/Npm-CB3837?style=flat-square&logo=Npm&logoColor=white"> <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white"> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"> <img src="https://img.shields.io/badge/PWA-5A0FC8.svg?style=flat-square&logo=PWA&logoColor=white"> <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white" alt="styledcomponents" /> <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white"> <img src="https://img.shields.io/badge/Tanstack Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"> <img src="https://img.shields.io/badge/Zustand-eb9534?style=flat-square"/>
 <br>
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
