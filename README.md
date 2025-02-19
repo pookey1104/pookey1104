@@ -62,7 +62,7 @@
 #### 2025
 
  - <a href="https://github.com/code-wave-project/code-wave-FE.git">[kakao x goorm] DeepDive 풀스택 11회차 Web IDE 프로젝트</a> | **CodeWave** [React] | **🏆 1등**
- - <a href="">2025 코드잇 부스트 1기 프로젝트</a> | **ArtNe** [React]
+ - <a href="https://github.com/ArtNeplatform/front">2025 코드잇 부스트 1기 프로젝트</a> | **ArtNe** [React]
 <br>
 
 ## ⚙️ Skill
