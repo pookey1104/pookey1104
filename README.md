@@ -34,6 +34,7 @@
 #### 2025
 - 🦁 멋쟁이사자차럼 13기 부대표(교육팀) | **FE**
 - 🦁 멋쟁이사자차럼 13기 중앙운영단 운영부
+- 🦁 멋쟁이사자처럼 연합해커톤 [여기톤 : HERETHON] TF 총무팀원
   <br>
   <br>
 
@@ -63,7 +64,7 @@
 #### 2025
 
  - <a href="https://github.com/code-wave-project/code-wave-FE.git">[kakao x goorm] DeepDive 풀스택 11회차 Web IDE 프로젝트</a> | **CodeWave** [React] | **🏆 1등**
- - <a href="https://github.com/2025-LIKELION-DS/2025-LikeLionDS-FE.git">2025 덕성여자대학교 멋쟁이사자처럼 13기 사이트</a> | **LIKELION-DS** [React]
+ - <a href="https://github.com/pookey1104/2025-LikeLionDS-FE.git">2025 덕성여자대학교 멋쟁이사자처럼 13기 사이트</a> | **LIKELION-DS** [React]
  - <a href="https://github.com/ArtNeplatform/front">2025 코드잇 부스트 1기 프로젝트</a> | **ArtNe** [React]
  - <a href="https://github.com/CS24-Project/CS24-FE">[kakao x goorm] DeepDive 풀스택 11회차 최종 프로젝트</a> | **CS24** [React] | **🏆 1등**
  - <a href="https://github.com/SiliconValley-hct/posepik-fe">2025 멋쟁이사자처럼 실리콘밸리 프로젝트 HackTheValley</a> | **posepik!** [React]
