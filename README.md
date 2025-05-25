@@ -68,6 +68,7 @@
  - <a href="https://github.com/ArtNeplatform/front">2025 코드잇 부스트 1기 프로젝트</a> | **ArtNe** [React]
  - <a href="https://github.com/CS24-Project/CS24-FE">[kakao x goorm] DeepDive 풀스택 11회차 최종 프로젝트</a> | **CS24** [React] | **🏆 1등**
  - <a href="https://github.com/SiliconValley-hct/posepik-fe">2025 멋쟁이사자처럼 실리콘밸리 프로젝트 HackTheValley</a> | **posepik!** [React]
+ - <a href="https://github.com/2025-LIKELION-DS/2025-DSFest-FE.git">2025 덕성여자대학교 근화제 "여운"</a> | **여운** [React]
 <br>
 
 ## ⚙️ Skill
