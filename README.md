@@ -39,6 +39,7 @@
 - ⚙️ 덕성여자대학교 디지털교육공학센터 TF | **FE**
 - 🏠 경기푸른미래관 TF | **FE**
 - 🎸 잼머링 AKIFY TF | **FE**
+- ✏️ 덕성여자대학교 시각디자인전공 제60회 졸업전시회 TF | **FE**
   <br>
   <br>
 
@@ -75,6 +76,7 @@
  - <a href="https://github.com/2025-LIKELION-DS/2025-DSFest-FE.git">2025 덕성여자대학교 근화제 "여운"</a> | **여운** [React]
  - <a href="https://github.com/DS-DET-LAB/DS-DET-LAB.git">덕성여자대학교 디지털교육공학센터 사이트</a> | **디지털교육공학센터** [React]
  - <a href="https://github.com/JAMMERING/AKIFY_FE">아키파이 | 악기 거래 플랫폼</a> | **AKIFY** [ReactNative]
+ - <a href="https://github.com/2025-VCD-DS/vcd60_fe">덕성여자대학교 시각디자인전공 제60회 졸업전시회 </a> | **The Rough Sketch on the Ground** [Next.js]
 <br>
 
 ## ⚙️ Skill
@@ -86,7 +88,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"> ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white)
 <br>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/ReactNative-20232A?style=flat-square&logo=react&logoColor=61DAFB"> ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/ReactNative-20232A?style=flat-square&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"> ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white)
 <br>
 <img src="https://img.shields.io/badge/Npm-CB3837?style=flat-square&logo=Npm&logoColor=white"> <img src="https://img.shields.io/badge/Pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white"> <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white"> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"> <img src="https://img.shields.io/badge/PWA-5A0FC8.svg?style=flat-square&logo=PWA&logoColor=white"> <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white" alt="styledcomponents" /> <img src="https://img.shields.io/badge/Emotion-000000?style=flat-square&logo=emotion&logoColor=white" alt="emotion" /> <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white"> <img src="https://img.shields.io/badge/Tanstack Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"> <img src="https://img.shields.io/badge/Zustand-eb9534?style=flat-square"/>
 <br>
